@@ -1,0 +1,23 @@
+{
+  "name": "apple-color-emoji",
+  "version": "0.1.6",
+  "description": "Replace emoji in your strings with images from the Apple Color Emoji font",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/devongovett/apple-color-emoji.git"
+  },
+  "author": "Devon Govett <devongovett@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devongovett/apple-color-emoji/issues"
+  },
+  "homepage": "https://github.com/devongovett/apple-color-emoji",
+  "devDependencies": {
+    "fontkit": "^1.0.3",
+    "mkdirp": "^0.5.1",
+    "mocha": "^2.2.5",
+    "regenerate": "^1.2.1",
+    "rimraf": "^2.4.0",
+    "sprintf-js": "^1.0.3"
+  }
+}
